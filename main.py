@@ -1,6 +1,6 @@
 from sklearn import datasets, svm, metrics
 from sklearn.model_selection import train_test_split
-
+#This looks good! I made a change here :)
 
 if __name__ == '__main__':
     digits = datasets.load_digits()
